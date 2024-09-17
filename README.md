@@ -5,12 +5,6 @@
 
 ![snake gif](https://github.com/luistmarques/luistmarques/blob/output/github-contribution-grid-snake.svg)
 
-<div  align="center" >
-- 🔭 Atualmente estou trabalhando como freelancer ...
-  <br>
-- 🌱 Atualmente estou trabalhando com C, C# e SQL ...
-</div>
-
 <h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
 <br>
 <div align="center" >
