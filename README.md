@@ -17,7 +17,7 @@
   <img src="https://skillicons.dev/icons?i=bootstrap,html,css,c,cs,vscode,github,discord" />
 </div>
 
-<h2 align="center" >⚡Stats⚡</h2>
+<h2 align="center" >⚡Status⚡</h2>
 <br>
 <div align="center" >
   <picture>
