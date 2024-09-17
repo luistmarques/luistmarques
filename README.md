@@ -4,6 +4,10 @@
 </h1>
 
 <div  align="center" >
+![snake gif](https://github.com/your-user-name/your-user-name/blob/output/github-contribution-grid-snake.gif)
+</div>
+
+<div  align="center" >
   - 🔭 Atualmente estou trabalhando como freelancer ...
   <br>
 - 🌱 Atualmente estou trabalhando com C, C# e SQL ...
