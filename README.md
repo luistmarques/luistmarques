@@ -4,7 +4,7 @@
 </h1>
 
 <div  align="center" >
-![snake gif](https://github.com/your-user-name/your-user-name/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/luistmarques/luistmarques/blob/output/github-contribution-grid-snake.gif)
 </div>
 
 <div  align="center" >
